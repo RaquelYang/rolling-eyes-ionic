@@ -1,0 +1,7 @@
+{
+  "name": "rolling-eyes-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
